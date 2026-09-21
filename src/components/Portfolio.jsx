@@ -165,7 +165,7 @@ export default function Portfolio() {
             <div className="w-50 h-56 md:w-52 md:h-68 bg-[#130d10] border-2 border-[#df5555] rounded-t-full overflow-hidden relative shadow-2xl group">
               <div className="absolute inset-0 bg-gradient-to-t from-[#0a0708] via-transparent to-transparent z-10" />
               <img 
-                src="${import.meta.env.BASE_URL}me.jpeg" 
+                src={"${import.meta.env.BASE_URL}me.jpeg"} 
                 alt="José Alejandro López Doblado" 
                 className="w-full h-full object-cover grayscale opacity-80 group-hover:scale-105 transition-transform duration-500"
               />
