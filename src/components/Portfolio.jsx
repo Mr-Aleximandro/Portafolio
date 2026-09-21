@@ -9,7 +9,7 @@ const projects = [
     description: 'Portal web inmobiliario y de desarrollo urbano. Diseñado con arquitectura desacoplada, SEO avanzado y filtros en tiempo real para optimizar la gestión de propiedades.',
     type: 'link',
     linkUrl: 'https://habitalo.com.mx',
-    imageUrl: '${import.meta.env.BASE_URL}habitalomx.jpeg', // Agrega aquí la ruta de tu imagen
+    imageUrl: '${import.meta.env.BASE_URL}habitalomx.jpeg', 
     tags: ['REACT', 'DOCKER', 'MYSQL', 'HOSTINGER', 'DEVOPS', 'REST API', 'UI/UX', 'SEO OPTIMIZED']
   },
   {
